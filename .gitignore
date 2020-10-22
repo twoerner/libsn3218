@@ -1,0 +1,13 @@
+Makefile.in
+aclocal.m4
+configure
+m4
+autom4te.cache
+
+cfg/compile
+cfg/config*
+cfg/depcomp
+cfg/install-sh
+cfg/ltmain.sh
+cfg/missing
+cfg/test-driver
